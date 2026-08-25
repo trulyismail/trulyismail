@@ -10,7 +10,7 @@
 <tr>
 <td width="72%" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2E9EF7&center=false&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+ESPRIT;AI+Engineering+Intern+%C2%B7+Agentic+Multi-Agent+Systems;Full-Stack+%26+DevOps;Shipped+a+21%2C000-line+LangGraph+platform+solo+in+8+weeks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=false&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+ESPRIT;AI+Engineering+Intern+%C2%B7+Agentic+Multi-Agent+Systems;Full-Stack+%26+DevOps;Shipped+a+21%2C000-line+LangGraph+platform+solo+in+8+weeks)](https://git.io/typing-svg)
 
 📍 Tunis, Tunisia &nbsp;·&nbsp; 🎓 ESPRIT, Software Engineering (expected 2027) &nbsp;·&nbsp; 🗣️ French & English (C1)
 
@@ -53,9 +53,11 @@ class Ismail:
 
 ### 🔍 Who am I?
 
-I'm a Software Engineering student at ESPRIT who'd rather ship one production system solo than half-build ten as part of a crowd. Across 4 engineering internships I've moved through agentic AI, retrieval-augmented generation, full-stack web, and DevOps — and I like keeping more than one of those active at once: an LLM prompt one day, a Kubernetes manifest the next, a landing page after that.
+**I'd rather ship one production system solo than half-build ten as part of a crowd.**
 
-My most recent build, **ACA**, is a 12-agent LangGraph platform I designed, built, tested (829 offline tests) and shipped **solo in 8 weeks** — supervisor architecture, hybrid RAG, self-critique loop, auth/RBAC, CI, and every UI pixel in between.
+I'm a Software Engineering student at ESPRIT. Across 4 engineering internships I've moved through agentic AI, RAG, full-stack web, and DevOps — and I like keeping more than one active at once: an LLM prompt one day, a Kubernetes manifest the next, a landing page after that.
+
+My most recent build, **ACA**, is a 12-agent LangGraph platform — designed, built, tested (829 offline tests), and shipped **solo in 8 weeks**. Supervisor architecture, hybrid RAG, a self-critique loop, auth/RBAC, CI — and every UI pixel in between.
 
 ---
 
@@ -81,12 +83,6 @@ My most recent build, **ACA**, is a 12-agent LangGraph platform I designed, buil
 ### 🎯 Open to
 
 Internships, collaborations, and full-time opportunities in **agentic AI systems**, **backend engineering**, and **DevOps**.
-
-<div align="center">
-
-> *"I'd rather own one system fully than half-build ten."*
-
-</div>
 
 ---
 
@@ -307,7 +303,9 @@ Sports club management platform with an AI-powered recommendation engine.
 
 ### 💭 Philosophy
 
-I think the most useful engineers are the ones who can take a system from a rough idea to something running in production — including the parts nobody wants to own: the auth, the retries, the tests, the CI. That's the kind of engineer I'm building myself into: comfortable enough across the stack to ship a whole product solo, and rigorous enough to be trusted with the parts that can't fail quietly.
+**The most useful engineers take a system from a rough idea to something running in production — including the parts nobody wants to own.**
+
+The auth. The retries. The tests. The CI. That's the engineer I'm building myself into: comfortable enough across the stack to ship a whole product solo, and rigorous enough to be trusted with the parts that can't fail quietly.
 
 ---
 
