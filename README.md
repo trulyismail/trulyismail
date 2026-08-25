@@ -32,77 +32,61 @@
 
 ---
 
-### About me
+### 🧑‍💻 About me
 
-- 🤖 I design and ship **production multi-agent AI systems solo** — most recently a 12-agent LangGraph platform that scored **100% on a 50-email labeled evaluation benchmark**.
-- 🧪 4 engineering internships across **agentic AI, RAG, full-stack, and DevOps** — I like owning a project end-to-end, from architecture to CI to the last UI pixel.
-- 🛠️ Comfortable moving between an LLM prompt, a FastAPI route, a Kubernetes manifest, and a landing page in the same week.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trulyismail) or by [email](mailto:hajriismail7@gmail.com)
+```python
+class Ismail:
+    def __init__(self):
+        self.role = "AI Engineering Intern · Full-Stack & DevOps"
+        self.education = "Software Engineering @ ESPRIT (expected 2027)"
+        self.location = "Tunis, Tunisia"
+        self.languages = ["French (C1)", "English (C1)", "Arabic (Native)"]
+        self.internships = 4  # agentic AI, RAG, full-stack, DevOps
+        self.currently_building = "12-agent LangGraph platform · solo · 21k lines"
+        self.philosophy = "Own it end-to-end — architecture to CI to the last UI pixel."
+
+    def say_hi(self):
+        return "Always up for a conversation about agentic systems, RAG, or shipping fast."
+```
 
 ---
 
-### 🚀 Featured work
+### 🔍 Who am I?
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a Software Engineering student at ESPRIT who'd rather ship one production system solo than half-build ten as part of a crowd. Across 4 engineering internships I've moved through agentic AI, retrieval-augmented generation, full-stack web, and DevOps — and I like keeping more than one of those active at once: an LLM prompt one day, a Kubernetes manifest the next, a landing page after that.
 
-**[ACA — Agentic Commercial Assistant](https://github.com/trulyismail/agentic-commercial-assistant-ACA)**
-<br/>
-Multi-agent LangGraph platform that pre-reads inbound sales emails/attachments, extracts qualified lead data, and drafts a costed proposal — pausing for mandatory human validation before any CRM write.
+My most recent build, **ACA**, is a 12-agent LangGraph platform I designed, built, tested (829 offline tests) and shipped **solo in 8 weeks** — supervisor architecture, hybrid RAG, self-critique loop, auth/RBAC, CI, and every UI pixel in between.
 
-- 21,000 lines · 99 modules, shipped **solo in 8 weeks**
-- 12+ specialized agents (classifier, extractor, hybrid RAG, web research, strategist, self-critique)
-- Hybrid RAG: dense Gemini embeddings (pgvector) + sparse keyword RRF fusion
-- 6 live integrations (Gmail, Sheets, HubSpot, Slack, Tavily, Stripe) behind a FastAPI/n8n-ready service
-- **829-test offline suite**, GitHub Actions CI, PBKDF2+TOTP auth, RBAC, tamper-evident audit logs
+---
 
-`Python` `LangGraph` `FastAPI` `PostgreSQL/pgvector` `Streamlit` `Docker`
+### 🧠 Areas of expertise
 
-</td>
-<td width="50%" valign="top">
+- 🤖 Agentic multi-agent systems — LangGraph supervisor/worker architectures, self-critique loops
+- 🔎 Retrieval-Augmented Generation — hybrid dense + sparse fusion, pgvector, Gemini embeddings
+- 🗣️ LLM orchestration & structured output — Groq, prompt engineering, tool-calling
+- ⚙️ Backend & API engineering — FastAPI, Spring Boot, REST design
+- 🖥️ Full-stack web — React, Next.js, Angular, Streamlit
+- 🚀 DevOps & CI/CD — Docker, Kubernetes, GitHub Actions, Jenkins
+- 📈 Observability — Prometheus, Grafana, SonarCloud
+- 🗄️ Data engineering — PostgreSQL, Neo4j, Redis
+- 🔐 Security engineering — PBKDF2 + TOTP auth, RBAC, tamper-evident audit logs
+- 🔗 Workflow automation — n8n, webhooks, event-driven integrations
+- 💳 Commercial integrations — Stripe, HubSpot
+- 🎨 Brand & product strategy — white-label theming, programmatic SEO
 
-**[acami — AI automation agency built on ACA](https://github.com/trulyismail/agentic-commercial-assistant-ACA/tree/main/static)**
-<br/>
-The commercial layer on top of ACA: turned the internship system into a launch-ready agency offer with a zero-licence-fee delivery model — software on client infrastructure, client-owned API keys.
+### 🧭 Currently exploring
 
-- Three-layer brand architecture: **acami** the agency, **ACAM** the engine, **ACA** the deployed framework
-- Dependency-free, bilingual (EN/FR) site with runtime-generated illustrations, no image/CDN dependency
-- 19 sector color palettes with automated WCAG contrast checking + white-label theming engine
-- Legal pages (privacy, DPA, EU AI Act positioning) + a programmatic-SEO layer generating 20+ pages
+`Multi-agent orchestration patterns` `Evaluation-driven LLM design` `Multi-tenant SaaS architecture` `Programmatic SEO` `Vector search at scale`
 
-`Brand & Product Strategy` `HTML/CSS/JS` `Python` `SEO` `Stripe`
+### 🎯 Open to
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Internships, collaborations, and full-time opportunities in **agentic AI systems**, **backend engineering**, and **DevOps**.
 
-**[EnglishFlow (Jungle in English)](https://github.com/trulyismail/Esprit-PIDEV-4SAE1-2026-JungleInEnglish)**
-<br/>
-Production-grade microservices platform for CEFR-based English learning — academic team project, 5 engineers.
+<div align="center">
 
-- 265+ REST endpoints, 75+ entities across **16 microservices** (15 Spring Boot + 1 Node.js)
-- Real-time messaging & gamification over **10,000+ concurrent WebSocket connections**
-- Full DevOps pipeline: Docker Compose, Kubernetes, GitHub Actions CI/CD, SonarCloud, Prometheus/Grafana
+> *"I'd rather own one system fully than half-build ten."*
 
-`Spring Boot 3` `Angular 18` `PostgreSQL` `Redis` `Kubernetes`
-
-</td>
-<td width="50%" valign="top">
-
-**MatchupZ** <sub>(private repository)</sub>
-<br/>
-Sports club management platform with an AI-powered recommendation engine.
-
-- Symfony backend with a Java-based recommendation module
-- Club, member and booking management with a match-suggestion engine
-
-`Symfony` `Java` `MySQL`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -149,6 +133,122 @@ Sports club management platform with an AI-powered recommendation engine.
 ![Grafana](https://img.shields.io/badge/Grafana-1a1b27?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![n8n](https://img.shields.io/badge/n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 
+**Favorite tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,ts,react,nextjs,angular,spring,fastapi,docker,kubernetes,postgres,redis,githubactions,grafana&theme=dark" alt="favorite tools" />
+
+**AI / Agentic engineering — self-assessed**
+
+| Skill | Level |
+|---|---|
+| LangGraph / Multi-agent orchestration | ★★★★★ |
+| Hybrid RAG (dense + sparse fusion) | ★★★★★ |
+| LLM prompting & structured output | ★★★★☆ |
+| FastAPI / backend APIs | ★★★★★ |
+| DevOps & CI/CD | ★★★★☆ |
+| Security engineering (auth / RBAC / audit) | ★★★★☆ |
+
+**Languages**
+
+| Language | Level |
+|---|---|
+| French | 🟦🟦🟦🟦🟦 C1 |
+| English | 🟦🟦🟦🟦🟦 C1 |
+| Arabic | 🟦🟦🟦🟦🟦 Native |
+
+---
+
+### 🚀 Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=ACA&fontSize=26&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+![status](https://img.shields.io/badge/status-completed%20%C2%B7%20solo%20%C2%B7%208%20weeks-2E9EF7?style=flat-square&labelColor=1a1b27)
+
+**[ACA — Agentic Commercial Assistant](https://github.com/trulyismail/agentic-commercial-assistant-ACA)**
+<br/>
+Multi-agent LangGraph platform that pre-reads inbound sales emails/attachments, extracts qualified lead data, and drafts a costed proposal — pausing for mandatory human validation before any CRM write.
+
+- 21,000 lines · 99 modules, shipped **solo in 8 weeks**
+- 12+ specialized agents (classifier, extractor, hybrid RAG, web research, strategist, self-critique)
+- Hybrid RAG: dense Gemini embeddings (pgvector) + sparse keyword RRF fusion
+- 6 live integrations (Gmail, Sheets, HubSpot, Slack, Tavily, Stripe) behind a FastAPI/n8n-ready service
+- **829-test offline suite**, GitHub Actions CI, PBKDF2+TOTP auth, RBAC, tamper-evident audit logs
+
+`Python` `LangGraph` `FastAPI` `PostgreSQL/pgvector` `Streamlit` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=acami&fontSize=26&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+![status](https://img.shields.io/badge/status-live-2E9EF7?style=flat-square&labelColor=1a1b27)
+
+**[acami — AI automation agency built on ACA](https://github.com/trulyismail/agentic-commercial-assistant-ACA/tree/main/static)**
+<br/>
+The commercial layer on top of ACA: turned the internship system into a launch-ready agency offer with a zero-licence-fee delivery model — software on client infrastructure, client-owned API keys.
+
+- Three-layer brand architecture: **acami** the agency, **ACAM** the engine, **ACA** the deployed framework
+- Dependency-free, bilingual (EN/FR) site with runtime-generated illustrations, no image/CDN dependency
+- 19 sector color palettes with automated WCAG contrast checking + white-label theming engine
+- Legal pages (privacy, DPA, EU AI Act positioning) + a programmatic-SEO layer generating 20+ pages
+
+`Brand & Product Strategy` `HTML/CSS/JS` `Python` `SEO` `Stripe`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=EnglishFlow&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+![status](https://img.shields.io/badge/status-completed%20%C2%B7%20team%20of%205-2E9EF7?style=flat-square&labelColor=1a1b27)
+
+**[EnglishFlow (Jungle in English)](https://github.com/trulyismail/Esprit-PIDEV-4SAE1-2026-JungleInEnglish)**
+<br/>
+Production-grade microservices platform for CEFR-based English learning — academic team project, 5 engineers.
+
+- 265+ REST endpoints, 75+ entities across **16 microservices** (15 Spring Boot + 1 Node.js)
+- Real-time messaging & gamification over **10,000+ concurrent WebSocket connections**
+- Full DevOps pipeline: Docker Compose, Kubernetes, GitHub Actions CI/CD, SonarCloud, Prometheus/Grafana
+
+`Spring Boot 3` `Angular 18` `PostgreSQL` `Redis` `Kubernetes`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=MatchupZ&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+![status](https://img.shields.io/badge/status-completed%20%C2%B7%20private-2E9EF7?style=flat-square&labelColor=1a1b27)
+
+**MatchupZ** <sub>(private repository)</sub>
+<br/>
+Sports club management platform with an AI-powered recommendation engine.
+
+- Symfony backend with a Java-based recommendation module
+- Club, member and booking management with a match-suggestion engine
+
+`Symfony` `Java` `MySQL`
+
+</td>
+</tr>
+</table>
+
+**Project domains**
+
+| Domain | Projects |
+|---|---|
+| Agentic AI / Multi-agent systems | ACA |
+| RAG & vector search | ACA |
+| Backend & APIs | ACA · EnglishFlow · MatchupZ |
+| DevOps & CI/CD | ACA · EnglishFlow |
+| Security & compliance | ACA |
+| Brand & commercial strategy | acami |
+| Full-stack web | EnglishFlow · MatchupZ |
+
 ---
 
 ### 📊 GitHub stats
@@ -164,6 +264,53 @@ Sports club management platform with an AI-powered recommendation engine.
 
 ---
 
+### 🧩 Focus areas
+
+- 🤖 **AI & agents** — multi-agent orchestration, RAG, self-critique loops
+- ⚙️ **Backend & APIs** — FastAPI, Spring Boot, event-driven services
+- 🔐 **Security & compliance** — auth, RBAC, tamper-evident logging, GDPR retention
+- 🚀 **DevOps & platform** — Docker, Kubernetes, CI/CD, observability
+
+### 📈 Currently building toward
+
+<div align="center">
+
+<img src="https://progress-bar.xyz/90/?title=Multi-Agent%20Systems&width=280&color=2E9EF7" /><br/>
+<img src="https://progress-bar.xyz/85/?title=Hybrid%20RAG%20%2F%20Vector%20Search&width=280&color=2E9EF7" /><br/>
+<img src="https://progress-bar.xyz/85/?title=Backend%20APIs&width=280&color=2E9EF7" /><br/>
+<img src="https://progress-bar.xyz/75/?title=DevOps%20%26%20CI%2FCD&width=280&color=2E9EF7" /><br/>
+<img src="https://progress-bar.xyz/70/?title=Security%20Engineering&width=280&color=2E9EF7" /><br/>
+<img src="https://progress-bar.xyz/70/?title=Full-Stack%20Web&width=280&color=2E9EF7" />
+
+<sub>self-assessed, based on shipped work — not a certification</sub>
+
+</div>
+
+### ✅ What I'm building
+
+- [x] Production multi-agent AI platforms
+- [x] Hybrid RAG pipelines
+- [x] Secure, auditable backend systems
+- [x] CI/CD-driven DevOps pipelines
+- [ ] Multi-tenant SaaS products
+- [ ] Open-source agentic tooling
+
+---
+
+### 🗺️ Engineering journey
+
+<div align="center">
+
+🎓 **ESPRIT** — Software Engineering &nbsp;➜&nbsp; 🧪 **4 internships** (Agentic AI · RAG · Full-Stack · DevOps) &nbsp;➜&nbsp; 🚀 **ACA + acami** — solo, 21k lines, 829 tests &nbsp;➜&nbsp; 🎯 **Graduation** (expected 2027)
+
+</div>
+
+### 💭 Philosophy
+
+I think the most useful engineers are the ones who can take a system from a rough idea to something running in production — including the parts nobody wants to own: the auth, the retries, the tests, the CI. That's the kind of engineer I'm building myself into: comfortable enough across the stack to ship a whole product solo, and rigorous enough to be trusted with the parts that can't fail quietly.
+
+---
+
 <div align="center">
 
 ### 🤝 Let's connect
@@ -171,8 +318,11 @@ Sports club management platform with an AI-powered recommendation engine.
 I'm always open to conversations about agentic AI systems, RAG, and internship/collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trulyismail)
+[![Gmail](https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajriismail7@gmail.com)
 
 <sub>www.linkedin.com/in/trulyismail</sub>
+
+Thanks for stopping by — let's build something. 🚀
 
 </div>
 
