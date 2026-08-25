@@ -135,22 +135,57 @@ Internships, collaborations, and full-time opportunities in **agentic AI systems
 
 **AI / Agentic engineering — self-assessed**
 
-| Skill | Level |
-|---|---|
-| LangGraph / Multi-agent orchestration | ★★★★★ |
-| Hybrid RAG (dense + sparse fusion) | ★★★★★ |
-| LLM prompting & structured output | ★★★★☆ |
-| FastAPI / backend APIs | ★★★★★ |
-| DevOps & CI/CD | ★★★★☆ |
-| Security engineering (auth / RBAC / audit) | ★★★★☆ |
+<table cellpadding="12" cellspacing="0">
+<tr>
+<th align="left">Skill</th>
+<th align="center">Level</th>
+</tr>
+<tr>
+<td>LangGraph / Multi-agent orchestration</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</td>
+</tr>
+<tr>
+<td>Hybrid RAG (dense + sparse fusion)</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</td>
+</tr>
+<tr>
+<td>LLM prompting & structured output</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;☆</td>
+</tr>
+<tr>
+<td>FastAPI / backend APIs</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</td>
+</tr>
+<tr>
+<td>DevOps &amp; CI/CD</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;☆</td>
+</tr>
+<tr>
+<td>Security engineering (auth / RBAC / audit)</td>
+<td align="center">★&nbsp;★&nbsp;★&nbsp;★&nbsp;☆</td>
+</tr>
+</table>
 
 **Languages**
 
-| Language | Level |
-|---|---|
-| French | 🟦🟦🟦🟦🟦 C1 |
-| English | 🟦🟦🟦🟦🟦 C1 |
-| Arabic | 🟦🟦🟦🟦🟦 Native |
+<table cellpadding="12" cellspacing="0">
+<tr>
+<th align="left">Language</th>
+<th align="center">Level</th>
+</tr>
+<tr>
+<td>French</td>
+<td align="center">🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;&nbsp;C1</td>
+</tr>
+<tr>
+<td>English</td>
+<td align="center">🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;&nbsp;C1</td>
+</tr>
+<tr>
+<td>Arabic</td>
+<td align="center">🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;🟦&nbsp;&nbsp;Native</td>
+</tr>
+</table>
 
 ---
 
