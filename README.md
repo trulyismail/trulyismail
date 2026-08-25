@@ -63,26 +63,52 @@ My most recent build, **ACA**, is a 12-agent LangGraph platform — designed, bu
 
 ### 🧠 Areas of expertise
 
+<table cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
 - 🤖 Agentic multi-agent systems — LangGraph supervisor/worker architectures, self-critique loops
 - 🔎 Retrieval-Augmented Generation — hybrid dense + sparse fusion, pgvector, Gemini embeddings
 - 🗣️ LLM orchestration & structured output — Groq, prompt engineering, tool-calling
 - ⚙️ Backend & API engineering — FastAPI, Spring Boot, REST design
 - 🖥️ Full-stack web — React, Next.js, Angular, Streamlit
+- 🗄️ Data engineering — PostgreSQL, Neo4j, Redis
+
+</td>
+<td width="50%" valign="top">
+
 - 🚀 DevOps & CI/CD — Docker, Kubernetes, GitHub Actions, Jenkins
 - 📈 Observability — Prometheus, Grafana, SonarCloud
-- 🗄️ Data engineering — PostgreSQL, Neo4j, Redis
 - 🔐 Security engineering — PBKDF2 + TOTP auth, RBAC, tamper-evident audit logs
 - 🔗 Workflow automation — n8n, webhooks, event-driven integrations
 - 💳 Commercial integrations — Stripe, HubSpot
 - 🎨 Brand & product strategy — white-label theming, programmatic SEO
 
-### 🧭 Currently exploring
+</td>
+</tr>
+</table>
 
-`Multi-agent orchestration patterns` `Evaluation-driven LLM design` `Multi-tenant SaaS architecture` `Programmatic SEO` `Vector search at scale`
+<table cellpadding="10" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
 
-### 🎯 Open to
+**🧭 Currently exploring**
+<br/><br/>
+![](https://img.shields.io/badge/Evaluation%20driven%20LLM%20design-2E9EF7?style=flat-square)
+![](https://img.shields.io/badge/Multi%20tenant%20SaaS%20architecture-2E9EF7?style=flat-square)
+![](https://img.shields.io/badge/Vector%20search%20at%20scale-2E9EF7?style=flat-square)
+![](https://img.shields.io/badge/Agent%20orchestration%20patterns-2E9EF7?style=flat-square)
 
+</td>
+<td width="40%" valign="top">
+
+**🎯 Open to**
+<br/><br/>
 Internships, collaborations, and full-time opportunities in **agentic AI systems**, **backend engineering**, and **DevOps**.
+
+</td>
+</tr>
+</table>
 
 ---
 
