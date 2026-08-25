@@ -221,7 +221,7 @@ Internships, collaborations, and full-time opportunities in **agentic AI systems
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=ACA&fontSize=26&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="assets/aca.png" width="100%" style="border-radius:8px;object-fit:cover;height:190px;"/>
 
 ![status](https://img.shields.io/badge/status-completed%20%C2%B7%20solo%20%C2%B7%208%20weeks-2E9EF7?style=flat-square&labelColor=1a1b27)
 
@@ -240,7 +240,7 @@ Multi-agent LangGraph platform that pre-reads inbound sales emails/attachments, 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=acami&fontSize=26&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="assets/acami.png" width="100%" style="border-radius:8px;object-fit:cover;height:190px;"/>
 
 ![status](https://img.shields.io/badge/status-live-2E9EF7?style=flat-square&labelColor=1a1b27)
 
@@ -260,7 +260,7 @@ The commercial layer on top of ACA: turned the internship system into a launch-r
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=EnglishFlow&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="assets/englishflow.jpg" width="100%" style="border-radius:8px;object-fit:cover;height:190px;"/>
 
 ![status](https://img.shields.io/badge/status-completed%20%C2%B7%20team%20of%205-2E9EF7?style=flat-square&labelColor=1a1b27)
 
@@ -277,7 +277,7 @@ Production-grade microservices platform for CEFR-based English learning — acad
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2E9EF7&height=55&text=MatchupZ&fontSize=24&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="assets/matchupz.png" width="100%" style="border-radius:8px;object-fit:cover;height:190px;"/>
 
 ![status](https://img.shields.io/badge/status-completed%20%C2%B7%20private-2E9EF7?style=flat-square&labelColor=1a1b27)
 
