@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2E9EF7&height=120&section=header" width="100%"/>
+
 <div align="center">
 
 # Hi, I'm Ismail 👋
@@ -24,6 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trulyismail)
 [![Gmail](https://img.shields.io/badge/hajriismail7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajriismail7@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/trulyismail?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white)](https://github.com/trulyismail)
+[![Profile views](https://komarev.com/ghpvc/?username=trulyismail&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/trulyismail)
 
 </div>
 
@@ -172,3 +175,5 @@ I'm always open to conversations about agentic AI systems, RAG, and internship/c
 <sub>www.linkedin.com/in/trulyismail</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1b27&height=100&section=footer" width="100%"/>
